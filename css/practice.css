@@ -255,12 +255,12 @@ footer {
 .footer-column p {
   line-height: 1.6;
 }
-.footer-column a img {
-  width: 24px;
-  margin-right: 10px;
-}
 .footer-icon {
   display: flex;
   gap: 7px;
   flex-direction: column;
+}
+.footer-icon i{
+  font-size: 20px;
+  margin-right: 10px;
 }
